@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Electrical and Computer Engineering student at UT Austin and I'm interested in Machine Learning and Backend system development.
+I am a Computer Science grad student at Cornell and I like Machine Learning.
 
 
 ## 🌐 Socials:
